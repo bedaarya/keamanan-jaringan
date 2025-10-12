@@ -1,24 +1,45 @@
 # Keamanan Jaringan
 
-Berikut adalah hasil konfigurasi saya:
+Berikut adalah hasil kerja saya:
 
-## 1. Instalasi Wazuh Manager
-![Wazuh Manager Installed](./wazuh%20manager%20installed.jpg)
+## Setting up Honeypot (Cowrie)
+## 1. Sudo apt update && sudo apt upgrade -y
+![](./Honeypot%20VM/step1.png)
 
-## 2. Setting Static IP di Ubuntu Server
-![Static IP Setting](./setting%20static%20ip%20on%20wazuh%20manager%20ubuntu%20server.jpg)
+## 2. Install dependencies
+![Installed Dependencies](./Honeypot%20VM/step2.png)
 
-## 3. Aktivasi Cowrie
-![Cowrie Activation](./activating%20cowrie%20through%20cowrie-env%20.jpg)
+## 3. Create Cowrie User
+![User Created](./Honeypot%20VM/step3.png)
 
-## 4. Otomatisasi Cowrie 
-![Automation Success](./successfully%20automate%20cowrie%20and%20both%20cowrie%20and%20wazuh%20agent%20running.jpg)
+## 4. Install Cowrie 
+![Cowrie Installed](./Honeypot%20VM/step4.png)
 
-## 5. SSH Berhasil
-![SSH Successful](./ssh%20successful.jpg)
+## 5. Create && Activate Python Virtual Environment
+![Environment created](./Honeypot%20VM/step5.png)
 
-## 6. Dual Network settings && pre-wazuh agent install
-![Dual Network success](./image.png)
+## 6. Install Dependencies
+![Successfully Installed](./Honeypot%20VM/step6.png)
 
-## 7. Finished setting up honeypot(cowrie & wazuh agent) [in ubuntu server] & Wazuh Manager [in ubuntu server] (dashboard (kali) included)
-![Finish Setup](./Screenshot%20(465).png)
+## 7. Copy Default Config & Start Cowrie Through Virtual Environment
+![Start Success](./Honeypot%20VM/step7.png)
+
+## 8. Create A Symlink To The Real Cowrie Script
+![Symlink Created](./Honeypot%20VM/step8.png)
+
+## 9. Verify If Symlink Exist & Start Cowrie From Bin/ Command
+![bin/cowrie start Succeed](./Honeypot%20VM/step9.png)
+
+## 10. Create A Systemd Service File For Automating Cowrie
+![Service File Created](./Honeypot%20VM/step10.png)
+
+## 11. Start Cowrie
+![Cowrie Successfully Started](./Honeypot%20VM/step11.png)
+
+## 12. SSH Succeed
+![SSH Succeed](./Honeypot%20VM/step12.jpg)
+
+## 13. Double Network Adapter (Nat && Host-Only) & Static IP Setting
+![Double Network Adapter Succeed]()
+
+## Setting up Wazuh Manager (Dashboard Included with Manager)
