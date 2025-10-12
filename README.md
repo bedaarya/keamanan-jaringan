@@ -43,3 +43,11 @@ Berikut adalah hasil kerja saya:
 ![Double Network Adapter Succeed](./Honeypot%20VM/step13.png)
 
 ## Setting up Wazuh Manager (Dashboard Included with Manager)
+
+## 1. Installing Wazuh Manager
+![Wazuh Manager Installed](./WazuhManager/WazuhManager.png)
+![](./WazuhManager/WazuhManager1.png)
+
+## 2. Setting Static IP For Manager VM
+![Static IP Done](./WazuhManager/WazuhManager3(1).png)
+![Static IP Done](./WazuhManager/WazuhManager3(2).png)
