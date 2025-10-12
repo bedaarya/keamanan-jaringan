@@ -40,6 +40,6 @@ Berikut adalah hasil kerja saya:
 ![SSH Succeed](./Honeypot%20VM/step12.jpg)
 
 ## 13. Double Network Adapter (Nat && Host-Only) & Static IP Setting
-![Double Network Adapter Succeed]()
+![Double Network Adapter Succeed](./Honeypot%20VM/step13.png)
 
 ## Setting up Wazuh Manager (Dashboard Included with Manager)
