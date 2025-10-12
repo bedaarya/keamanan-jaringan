@@ -51,3 +51,9 @@ Berikut adalah hasil kerja saya:
 ## 2. Setting Static IP For Manager VM
 ![Static IP Done](./WazuhManager/WazuhManager3(1).png)
 ![Static IP Done](./WazuhManager/WazuhManager3(2).png)
+
+
+## Wazuh Agent && Dashboard
+
+## 1. Wazuh Agent Installed and running & Connecting To Dashboard
+![Wazuh Agent Installed](./Honeypot%20VM/WazuhAgent&Dashboard.png)
