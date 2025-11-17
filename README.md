@@ -70,4 +70,4 @@ Berikut adalah hasil kerja saya:
 ![Brute Force](Screenshot%202025-11-16%20235621.png)
 
 ## 3. DDOS
-![]()
+![Flooding](Screenshot%202025-11-17%001210.png)
