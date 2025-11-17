@@ -68,6 +68,7 @@ Berikut adalah hasil kerja saya:
 ## 2. Brute Force
 ![Brute Force](WhatsApp%20Image%202025-11-17%20at%2007.03.37_93577a88.jpg)
 ![](Screenshot%202025-11-16%20235621.png)
+![](Screenshot%202025-11-17%20082129.png)
 
 ## 3. DDOS
 ![Flooding](Screenshot%202025-11-17%20081324.png)
