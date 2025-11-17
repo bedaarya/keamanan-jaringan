@@ -57,3 +57,9 @@ Berikut adalah hasil kerja saya:
 
 ## 1. Wazuh Agent Installed and running & Connecting To Dashboard
 ![Wazuh Agent Installed](./Honeypot%20VM/WazuhAgent&Dashboard.png)
+
+
+## Attack Testing
+
+## 1. Scanning
+![](Screenshot%202025-11-16%20215117.png)
