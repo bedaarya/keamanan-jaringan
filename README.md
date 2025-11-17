@@ -63,4 +63,5 @@ Berikut adalah hasil kerja saya:
 
 ## 1. Scanning
 ![Scanning](Screenshot%202025-11-16%20203657.png)
+![Scanning](Screenshot%202025-11-16%20203030.png)
 
