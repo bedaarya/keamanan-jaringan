@@ -62,4 +62,5 @@ Berikut adalah hasil kerja saya:
 ## Attack Testing
 
 ## 1. Scanning
-![](Screenshot%202025-11-16%20215117.png)
+![Scanning](Screenshot%202025-11-16%20203657.png)
+
