@@ -65,3 +65,6 @@ Berikut adalah hasil kerja saya:
 ![Scanning](Screenshot%202025-11-16%20203657.png)
 ![Scanning](Screenshot%202025-11-16%20203030.png)
 
+## 2. Brute Force
+![Brute Force](WhatsApp%20Image%202025-11-17%20at%2007.03.37_93577a88.jpg)
+![Brute Force](WhatsApp%20Image%202025-11-17%20at%2007.03.37_93577a88.jpg)
