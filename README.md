@@ -99,3 +99,17 @@ Berikut adalah hasil kerja saya:
 ![](IzinkanSSH.png)
 ## Simpan aturan
 ![](SimpanSemuaAturan.png)
+##
+##
+## Session 1 bidirectional ping
+## Ping dari kali ke windows dan windows ke kali
+![](PingSession1.png)
+## Analisis wireshark
+![](WiresharkSession1.png)
+## Hasil tcpdump
+![](tcpdumpSession1.png)
+##
+##
+## Session 2 Flood Simulation
+## lakukan flooding ke ip windows dan analisis menggunakan wireshark
+![](WiresharkSession2.png)
