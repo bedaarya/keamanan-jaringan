@@ -73,3 +73,29 @@ Berikut adalah hasil kerja saya:
 ## 3. DDOS
 ![Flooding](Screenshot%202025-11-17%20081324.png)
 ![](Screenshot%202025-11-17%20081653.png)
+##
+##
+
+## Pengenalan Firewall di Linux
+## Menggunakan iptables (Default di Kali)
+## Lihat aturan saat ini:
+![](LihatAturan.png)
+## Izinkan koneksi dari localhost dan izinkan akses SSH (port 22):
+![](IzinkanKoneksi.png)
+## Simpan aturan agar tetap ada setelah reboot:
+![](SimpanAturan.png)
+![](SimpanAturan2.png)
+##
+## Gunakan iptables untuk Filter Lebih Detail
+## Bersihkan aturan lama
+![](BersihkanAturanLama.png)
+## Menetapkan Kebijakan Default
+![](aturandasar2.png)
+## Izinkan loopback
+![](izinLoopback.png)
+## Izinkan koneksi established/related
+![](izinEstablish.png)
+## Izinkan SSH hanya dari host (192.168.56.1)
+![](IzinkanSSH.png)
+## Simpan aturan
+![](SimpanSemuaAturan.png)
